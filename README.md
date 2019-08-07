@@ -1,9 +1,7 @@
 # hello-world
 
-Bonjour à toi qui ne me lis pas,
+Hello you all,
 
-Je te souhaite une bonne journée malgrès tout et une très bonne année 1949.
+Trying to learn how to code from scratch so wish me good luck.
 
-Cordialement,
-
-VTP
+See ya
